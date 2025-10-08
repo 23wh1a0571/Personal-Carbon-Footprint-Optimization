@@ -40,7 +40,7 @@ Do **not** commit this file to version control.
 | Google Maps API        | Display maps and locations                 |
 | Google Places API      | Fetch nearby eco-friendly places           |
 | Geocoding API          | Get coordinates from city/state            |
-| Vertex AI API (optional) | AI-powered environmental recommendations |
+| Vertex AI API          | AI-powered environmental recommendations |
 | Compute Engine API     | Cloud app deployment                       |
 | GCP Services API       | Resource and access management             |
 
@@ -58,7 +58,7 @@ Do **not** commit this file to version control.
 | Data Handling | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) |
 | Environment   | ![dotenv](https://img.shields.io/badge/dotenv-214B8A?logo=python&logoColor=white) |
 | Tunneling     | ![Pyngrok](https://img.shields.io/badge/Pyngrok-4F46E5?logo=python&logoColor=white) |
-| Cloud AI (optional) | ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?logo=googlecloud&logoColor=white) |
+| Cloud AI      | ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?logo=googlecloud&logoColor=white) |
 | Deployment    | ![Google Cloud Platform](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white) |
 
 ---
