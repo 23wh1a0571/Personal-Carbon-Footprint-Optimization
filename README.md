@@ -14,9 +14,6 @@ Before running the application, ensure you have the following:
 - Google API Key (for Maps and Places)  
 - Optional: Vertex AI access for AI-driven eco insights  
 
-**Note:**  
-Create a `.env` file to store your API keys and credentials securely.  
-Do **not** commit this file to version control.
 
 ---
 
